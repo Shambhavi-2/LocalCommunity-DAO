@@ -67,6 +67,9 @@ Our vision is to revolutionize local governance by creating a transparent, effic
 - Immutable voting records preventing manipulation
 
 ## Contract Address Details
+contract ID:ST3RAXZ12Q20C5YFHCWRVHYM4JMWMFFM4J9NB9QNA.LocalCommunityDAO
+<img width="1346" height="626" alt="image" src="https://github.com/user-attachments/assets/d05e42a2-590a-43df-a385-22061f8a8a65" />
+
 
 **Network:** Stacks Mainnet  
 **Contract Address:** [Contract address will be added after deployment]  
@@ -82,4 +85,4 @@ Our vision is to revolutionize local governance by creating a transparent, effic
 
 ---
 
-*Built with ❤️ for local communities on the Stacks blockchain*
+
